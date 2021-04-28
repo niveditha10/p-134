@@ -1,0 +1,34 @@
+body{
+    background-size:cover;
+    background-position:center;
+    }
+    
+    
+    .heading
+    {
+    font-size: 23px;
+    top:0px;
+    width: 100%;
+    margin: 0px;
+    }
+    
+    #status
+    {
+    font-size: 18px;
+    }
+    
+    #baby_detected
+    {
+    font-size: 18px;
+    }
+    
+    
+    canvas
+    {
+        border-radius:20px;
+        box-shadow:10px 10px 10px grey;
+        
+    }
+    
+    
+    
